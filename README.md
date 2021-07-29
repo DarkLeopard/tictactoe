@@ -11,5 +11,5 @@ Statistics are displayed at the end of the specified number of games.
 # environment
 * npm 
 * node
-* javasccript
+* javascript
 * typescript
