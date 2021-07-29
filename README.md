@@ -7,3 +7,9 @@
 I wanted to suffer the bullshit on my vacation. I wrote a small autoplay.
 I do not claim anything in the righteousness of my code. The values to be substituted are pseudo-random based on the available blank cells.
 Statistics are displayed at the end of the specified number of games.
+
+# environment
+* npm 
+* node
+* javasccript
+* typescript
